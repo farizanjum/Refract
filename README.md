@@ -2,7 +2,7 @@
 
 An advanced AI-powered video editing system that automatically transforms widescreen videos (podcasts, YouTube videos, interviews, etc.) into engaging vertical format content optimized for TikTok, Instagram Reels, and other social media platforms.
 
-## 🎯 What It Does
+## What It Does
 
 This system intelligently:
 - **Analyzes speakers** and tracks who is speaking throughout the video
@@ -12,7 +12,7 @@ This system intelligently:
 - **Produces Blender projects** with all edits pre-configured
 - **Exports ready-to-use videos** with 9:16 aspect ratio
 
-## 🧠 Core Technologies
+## Core Technologies
 
 ### Speaker Diarization
 - **Resemblyzer**: Voice embedding and speaker identification
@@ -34,7 +34,7 @@ This system intelligently:
 - **Sentence/Word-level Subtitling**: Flexible subtitle generation
 - **Multi-language Support**: Including Indian languages via transliteration
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Installation
 
@@ -76,7 +76,7 @@ python run.py \
 3. Run the script to import your processed video
 4. Continue editing or export directly
 
-## 📋 Command Line Arguments
+## Command Line Arguments
 
 | Argument | Type | Default | Description |
 |----------|------|---------|-------------|
@@ -111,7 +111,7 @@ refract/
 └── README.md             # This documentation
 ```
 
-## 🎛️ Advanced Configuration
+## Advanced Configuration
 
 ### GPU Acceleration
 The system automatically detects and uses CUDA if available. For optimal performance:
@@ -129,7 +129,7 @@ The system automatically detects and uses CUDA if available. For optimal perform
 - **Face Quality**: Clear, well-lit faces work best
 - **Multiple Angles**: System handles face variations automatically
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -144,7 +144,7 @@ The system automatically detects and uses CUDA if available. For optimal perform
 - Clean audio with minimal background noise
 - Close other GPU-intensive applications
 
-## 🤝 Contributing
+## Contributing
 
 This project uses several cutting-edge AI technologies:
 - **FaceNet** for face recognition
@@ -155,3 +155,4 @@ This project uses several cutting-edge AI technologies:
 ## 📄 License
 
 This project combines multiple open-source technologies for video processing and AI analysis.
+
